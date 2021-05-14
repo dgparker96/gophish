@@ -1,1 +1,1 @@
-web: su -; gophish
+web: su; gophish
