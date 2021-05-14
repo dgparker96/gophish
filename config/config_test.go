@@ -18,7 +18,7 @@ var validConfig = []byte(`{
 		"key_path": "gophish_admin.key"
 	},
 	"phish_server": {
-		"listen_url": "0.0.0.0:8080",
+		"listen_url": "0.0.0.0:80",
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key"
