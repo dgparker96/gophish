@@ -1,1 +1,1 @@
-web: sudo su root; gophish
+web: sudo su -; gophish
